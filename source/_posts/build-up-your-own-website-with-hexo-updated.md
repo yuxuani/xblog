@@ -32,6 +32,7 @@ Notice: For the future upgrading of the theme, use Alternative Theme Configurati
 
 ## Generate 
 
-## Deploy Github Pages
+## Deploy Github Pages (New)
 
 ## References
+https://hexo.io/docs/github-pages.html
