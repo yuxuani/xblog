@@ -1,5 +1,5 @@
 ---
-title: Build up Your Website with Hexo (New)
+title: Build up Your Website with Hexo (NEW!)
 language: en
 tags:
 - [Hexo]

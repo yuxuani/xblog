@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: X Blog
+title: Yuxuan's Blog
 subtitle: 'Step by Step.'
 description: 'Less is more.'
 keywords:
-author: xcogit
+author: Yuxuan Xie
 language: 
  - en
  - de
@@ -17,7 +17,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xcogit.github.io/
+url: https://yuxuani.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,4 +106,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+type: git
+repo: https://github.com/yuxuani/yuxuani.github.io # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+branch: [branch]
+message: [message]
