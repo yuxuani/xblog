@@ -108,5 +108,5 @@ theme: next
 deploy:
 type: git
 repo: https://github.com/yuxuani/yuxuani.github.io # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-branch: [branch]
+branch: main
 message: [message]
